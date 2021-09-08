@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "index.js",
+  "devDependencies": {
+    "jest-cli": "^27.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "tuannt4",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.1.0",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.4.2"
+  }
+}
